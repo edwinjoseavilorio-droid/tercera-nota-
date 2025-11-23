@@ -1,2 +1,0 @@
-# tercera-nota-
-# tercera-nota-

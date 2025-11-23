@@ -1,8 +1,7 @@
-package unidad1;
 
 import java.util.Scanner;
 
-public class EjercicioMain {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese el primer número: ");

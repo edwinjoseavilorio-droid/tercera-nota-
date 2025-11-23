@@ -1,4 +1,4 @@
-package unidad1;
+
 import java.util.Scanner;
 public class ListaNombresMain {
     public static void main(String[] args) {
