@@ -14,6 +14,6 @@ public class ComparacionLogica {
             boolean resultado = (num1 > num2) && (num1 < num3);
 
             System.out.println("¿El primer número es mayor que el segundo y menor que el tercero? " + resultado);
+            scanner.close();
         }
-    }
-
+}

@@ -1,8 +1,8 @@
-class Persona {
-    String nombre;
-}
-
 public class reasignación_de_referencia {
+    static class Persona {
+        String nombre;
+    }
+
     public static void main(String[] args) {
         Persona persona = new Persona();
         persona.nombre = "Juan";
